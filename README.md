@@ -16,7 +16,7 @@ To get started with SoulSync, follow these steps:
 <b>Clone the Repository:</b> Clone the SoulSync repository to your local machine using the following command:
 bash<br>
 Copy code<br>
-git clone https://github.com/yourusername/soulsync.git<br>
+git clone https://github.com/tanvee1909/soulsync.git<br>
 Install Dependencies: Navigate to the project directory and install dependencies using npm or yarn:<br>
 bash<br>
 Copy code<br>
