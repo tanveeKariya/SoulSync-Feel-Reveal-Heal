@@ -25,7 +25,7 @@ npm install<br>
 Run the Application: Start the development server to run the application locally:<br>
 sql
 Copy code<br>
-nodemon js/index.js<br>
+node js/index.js<br>
 Access SoulSync: Open your web browser and navigate to http://localhost:5000 to access SoulSync.
 Contributing<br>
 
